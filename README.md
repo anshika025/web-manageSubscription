@@ -13,7 +13,7 @@ Project is created with:
 * react version: ^17.0.1
 	
 ## Setup
-To run this project, install it locally using npm:
+To run this project, install it locally using yarn:
 
 ```
 $ cd ../web-manageSubscription
